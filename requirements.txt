@@ -8,4 +8,5 @@ tqdm
 # Scraping
 pypdf
 bs4
+requests
 
