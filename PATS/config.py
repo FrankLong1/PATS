@@ -6,7 +6,7 @@ citations = {
     "country_analyzed": [],  # leave blank to analyze all
     "years_analyzed": [],  # leave blank to analyze all years from 2013-2019
     "institution_analyzed": [],  # blank for all institutions
-    "institution_type_analyzed": [],  # ['Company', 'Academia', 'Government', 'Independent Research'] blank for all institution types
+    "institution_type_analyzed": ['Company'],  # ['Company', 'Academia', 'Government', 'Independent Research'] blank for all institution types
     "institution_type_dependent": False,  # mark true if you want the institution type analyzed to align with the countries
     "institution_type_strict": False,
     "conferences_analyzed": [

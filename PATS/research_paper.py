@@ -1,3 +1,6 @@
+from dataclasses import dataclass
+
+@dataclass
 class research_paper:
     def __init__(
         self,
